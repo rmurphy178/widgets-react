@@ -1,0 +1,17 @@
+div {
+  align-self: flex-start;
+  background: orange;
+}
+
+h1 {
+  display: flex;
+  font-family: 'Spectral', serif;
+  justify-content:  center;
+  background: red;
+}
+
+h2 {
+  display: flex;
+  justify-content:  center;
+  flex-direction: row;
+}
